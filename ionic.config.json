@@ -1,0 +1,7 @@
+{
+  "name": "EasyRide2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
